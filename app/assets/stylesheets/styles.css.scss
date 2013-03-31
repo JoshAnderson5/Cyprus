@@ -1,0 +1,12 @@
+@import 'bootstrap';
+
+@import 'bootstrap-responsive';
+
+body {
+	background-color: rgb(145, 211, 255);
+}
+
+.navbar-inner {
+-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
